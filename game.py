@@ -1,4 +1,4 @@
-1111111111111  11111111from player import Player
+יייייייייייייייייייייייי1111111111111  11111111from player import Player
 from hamsters import Hamster
 import time
 import random
